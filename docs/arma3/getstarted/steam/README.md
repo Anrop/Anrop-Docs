@@ -42,9 +42,9 @@ Select the file and press `Open`.
 
 ### Step 4
 
-Now a popup appears asking you if you would like to subscribe to the mods that are part of the preset.
+Now a popup appears asking you if you would like to subscribe to the mods that are part of the preset and you have not already subscribed to.
 
-Click on `Subscribe` to continue, the launcher will now subscribe you to the mods in the Steam Workshop, and start downloading.
+In case the popup appears, click on `Subscribe` to continue, the launcher will now subscribe you to the mods in the Steam Workshop, and start downloading.
 
 Wait until it is done, how long it takes depends on your download speed and what type of disk you are downloading to.  
 A Solid State Drive (SSD) is faster than a Hard Disk Drive (HDD), meaning that it may take time even if you have a fast internet connection.
