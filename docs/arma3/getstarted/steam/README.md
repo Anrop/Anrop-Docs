@@ -19,7 +19,7 @@ Navigate to the relevant event page on [Anrop.se](https://www.anrop.se) and find
 
 ![Download preset](./assets/download_preset.png)
 
-Click it, and remember where you save the preset file that you are asked to download.
+Click it, and remember where you saved the preset file that you are asked to download.
 
 ### Step 2
 
