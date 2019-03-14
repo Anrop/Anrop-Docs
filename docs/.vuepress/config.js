@@ -49,7 +49,7 @@ module.exports = {
               title: 'Guider',
               collapsable: false,
               children: [
-                '/arma3/guides/fo/'
+                '/arma3/guides/eldledning/'
               ]
             },
             {

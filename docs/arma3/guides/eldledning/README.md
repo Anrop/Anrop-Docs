@@ -16,7 +16,8 @@ Innan du begär eldunderstöd se till att du har koll på följande
 
 **Var du befinner dig**  
 I relation till egna och fiendens styrkor.  
-För att du snabbt och enkelt ska kunna avgöra var ett mål är i förhållande till din egen position och UPK:er. Om du vet hur du triangulerar din position är detta ett bra tillfälle att flexa dina skills.
+För att du snabbt och enkelt ska kunna avgöra var ett mål är i förhållande till din egen position och UPK:er.  
+Om du vet hur du triangulerar din position är detta ett bra tillfälle att flexa dina skills.
 
 **Var egna styrkor befinner sig**  
 Speciellt om du inte är den som ursprungligen skickat begäran.
