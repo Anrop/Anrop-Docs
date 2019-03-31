@@ -46,6 +46,14 @@ module.exports = {
               ]
             },
             {
+              title: 'Guider',
+              collapsable: false,
+              children: [
+//                '/arma3/guides/eldledning/',
+                '/arma3/guides/granatkastare/'
+              ]
+            },
+            {
               title: 'Editing',
               collapsable: false,
               children: [
