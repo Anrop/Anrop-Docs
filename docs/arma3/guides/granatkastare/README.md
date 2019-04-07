@@ -2,9 +2,11 @@
 
 ## Introduktion
 
-Denna guide går igenom grunderna samt några mer avancerade tips för bruket av granatkastare i Arma.  
+*Detta är en översättning av den `Indirect Fire` som Taltsi från Arma Finland skrivit.  
+Den har anpassats till svenska termer, och skrivits om för att vara tydligare och mer lättläst.  
+Vissa förfaranden har fått tillägg för att underlätta för eldledare och granatkastargruppchef, men grunderna är desamma.*
 
-*Den ursprungliga textförfattaren - Taltsi från Arma Finland - tjänstgjorde som granatkastargruppchef i den Finska armén, och har anpassat vad han lärde sig där till Arma med hjälp av ett flertal andra spelare.*
+Denna guide går igenom grunderna samt några mer avancerade tips för bruket av granatkastare i Arma.  
 
 ## Grunder
 
