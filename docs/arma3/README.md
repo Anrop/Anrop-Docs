@@ -139,7 +139,7 @@ Detta DLC kommer att bli gratis vid "slutet av 2021".
 
 Släpptes 6 maj 2021
 
-Lägger till en en singleplayerkampanj och flera Coopuppdrag som utspelar sig under Vietnamkriget.
+Lägger till en enspelarkampanj och flera samspelsuppdrag som utspelar sig under Vietnamkriget.
 
 Innehåller kartan Cam Lao Nam och lägger till möjligheten att spela som den amerikanska armén, amerikanska specialförband, den sydvietnamesiska armén, den nordvietnamesiska armén och som Viet Cong.
 
