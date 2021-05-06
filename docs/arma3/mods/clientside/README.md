@@ -3,13 +3,6 @@
 Följande moddar behöver bara köras av spelaren och inte av servern.
 De är tillåtna på Anrop event men inte nödvändigtvis på externa event.
 
-# CUP
-
-För CUP behöver du motsvarande JSRS-modul för att ändra alla vapenljud
-
-* [JSRS CUP WEAPONS](https://steamcommunity.com/sharedfiles/filedetails/?id=1624803912)
-* [JSRS CUP VEHICLES](https://steamcommunity.com/sharedfiles/filedetails/?id=1624804924)
-
 ## DUI Squad Radar
 
 ![DUI](./assets/dui.jpg)
@@ -21,6 +14,14 @@ För CUP behöver du motsvarande JSRS-modul för att ändra alla vapenljud
 JSRS förbättrar markant ljudeffekterna i spelet jämfört med standardljuden.
 
 För många modifikationer behövs en extra modul för att ljuden ska bytas ut.
+
+
+### CUP
+
+För CUP behöver du motsvarande JSRS-modul för att ändra alla vapenljud
+
+* [JSRS CUP WEAPONS](https://steamcommunity.com/sharedfiles/filedetails/?id=1624803912)
+* [JSRS CUP VEHICLES](https://steamcommunity.com/sharedfiles/filedetails/?id=1624804924)
 
 ### RHS
 
