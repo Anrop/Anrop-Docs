@@ -22,7 +22,7 @@ Släpptes 29 maj 2014.
 
 Lägger till gokarts i spelet.
 
-Om du inte absolut vill äga alla DLCs, skippa denna.
+Om du inte absolut vill äga alla DLC:er, skippa denna.
 
 [Steam](https://store.steampowered.com/app/288520/)
 
@@ -32,7 +32,7 @@ Släpptes 4 november 2014.
 
 Lägger till två nya helikoptrar.
 
-Bara piloten behöver äga DLCn, övriga kan fritt åka med.
+Bara piloten behöver äga DLC:n, övriga kan fritt åka med.
 
 [Steam](https://store.steampowered.com/app/304380/)
 
@@ -76,7 +76,7 @@ Gratis! Innehåller en remake av gamla Malden från Operation Flashpoint.
 
 Släpptes 7 september 2017.
 
-Lägger till Sprinter-bussen. För att vara förare i Sprinter-bussen krävs DLCn.
+Lägger till Sprinterskåpbilen. För att vara förare i Sprinterskåpbilen krävs DLC:n.
 
 [Steam](https://store.steampowered.com/app/571710/)
 
@@ -86,7 +86,7 @@ Släpptes 30 november 2017.
 
 Lägger till några nya uppdrag för singleplayer.
 
-Om du inte absolut vill äga alla DLCs, skippa denna.
+Om du inte absolut vill äga alla DLC:er, skippa denna.
 
 [Steam](https://store.steampowered.com/app/744950/)
 
@@ -95,9 +95,9 @@ Om du inte absolut vill äga alla DLCs, skippa denna.
 Släpptes 11 april 2018.
 
 Utökar antalet pansarfordon i spelet med tre.
-Lägger även till förbättrad simulering för pansarfordon för alla spelare.
+Lägger även till förbättrad simulering av pansarfordon för alla spelare.
 
-Denna har används i bl.a. Rolling Thunder evenemang.
+Denna har använts i bl.a. Rolling Thunder evenemang.
 
 [Steam](https://store.steampowered.com/app/798390/)
 
