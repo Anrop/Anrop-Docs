@@ -1,7 +1,7 @@
 # Client Side
 
 Följande moddar behöver bara köras av spelaren och inte av servern.
-De är tillåtna på Anrop event men inte nödvändigtvis på externa event.
+De är tillåtna på Anrops event men inte nödvändigtvis på externa event.
 
 ## DUI Squad Radar
 
@@ -13,7 +13,7 @@ De är tillåtna på Anrop event men inte nödvändigtvis på externa event.
 
 JSRS förbättrar markant ljudeffekterna i spelet jämfört med standardljuden.
 
-För många modifikationer behövs en extra modul för att ljuden ska bytas ut.
+För flera modifikationer behövs en extra modul för att ljuden ska bytas ut.
 
 
 ### CUP
