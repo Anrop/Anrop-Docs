@@ -10,17 +10,17 @@ Till Arma 3 finns ett flertal officiella DLCs.
 
 ### Zeus
 
-Släpptes 11 April 2014.
+Släpptes 11 april 2014.
 
-Gratis! Lägger till Zeus läget för uppdragsskapare.
+Gratis! Lägger till Zeusläget för uppdragsskapare.
 
 [Steam](https://store.steampowered.com/app/275700/)
 
 ### Karts
 
-Släpptes 29 Maj 2014.
+Släpptes 29 maj 2014.
 
-Lägger till go karts i spelet.
+Lägger till gokarts i spelet.
 
 Om du inte absolut vill äga alla DLCs, skippa denna.
 
@@ -28,7 +28,7 @@ Om du inte absolut vill äga alla DLCs, skippa denna.
 
 ### Helicopters
 
-Släpptes 4 November 2014.
+Släpptes 4 november 2014.
 
 Lägger till två nya helikoptrar.
 
@@ -38,35 +38,35 @@ Bara piloten behöver äga DLCn, övriga kan fritt åka med.
 
 ### Marksmen
 
-Släpptes 8 April 2015.
+Släpptes 8 april 2015.
 
 Lägger till sju nya vapen, både maskingevär och prickskyttegevär.
-Utöker även spelet med ett par nya sikten.
+Utökar även spelet med ett par nya sikten.
 
-Denna har används i bl.a. Rolling Thunder evenemang.
+Denna har använts i bl.a. Rolling Thunder evenemang.
 
 [Steam](https://store.steampowered.com/app/332350/)
 
 ### Apex
 
-Släpptes 11 Juli 2016.
+Släpptes 11 juli 2016.
 
-Den största DLCn, nästan som en mini expansion.
+Den största DLCn, nästan som en miniexpansion.
 Lägger till den nya ön Tanoa.
 
 [Steam](https://store.steampowered.com/app/395180/)
 
 ### Jets
 
-Släpptes 16 Maj 2017
+Släpptes 16 maj 2017
 
-Fyra nya flygplan att göra luften osäker med. Bara piloten behöver äga DLCn.
+Lägger till fyra nya flygplan att göra luften osäker med. Bara piloten behöver äga DLCn.
 
 [Steam](https://store.steampowered.com/app/601670/)
 
 ### Malden
 
-Släpptes 22 Juni 2017.
+Släpptes 22 juni 2017.
 
 Gratis! Innehåller en remake av gamla Malden från Operation Flashpoint.
 
@@ -74,17 +74,17 @@ Gratis! Innehåller en remake av gamla Malden från Operation Flashpoint.
 
 ### Laws of War
 
-Släpptes 7 September 2017.
+Släpptes 7 september 2017.
 
-Lägger till Sprinter bussen. För att vara förare i Sprinter bussen krävs DLCn.
+Lägger till Sprinter-bussen. För att vara förare i Sprinter-bussen krävs DLCn.
 
 [Steam](https://store.steampowered.com/app/571710/)
 
 ### Tac-Ops
 
-Släpptes 30 November 2017.
+Släpptes 30 november 2017.
 
-Lägger till lite nya uppdrag för singleplayer.
+Lägger till några nya uppdrag för singleplayer.
 
 Om du inte absolut vill äga alla DLCs, skippa denna.
 
@@ -92,7 +92,7 @@ Om du inte absolut vill äga alla DLCs, skippa denna.
 
 ### Tanks
 
-Släpptes 11 April 2018.
+Släpptes 11 april 2018.
 
 Utökar antalet pansarfordon i spelet med tre.
 Lägger även till förbättrad simulering för pansarfordon för alla spelare.
@@ -100,3 +100,49 @@ Lägger även till förbättrad simulering för pansarfordon för alla spelare.
 Denna har används i bl.a. Rolling Thunder evenemang.
 
 [Steam](https://store.steampowered.com/app/798390/)
+
+
+### Global Mobilization - Cold War Germany
+
+Släpptes 29 april 2019
+
+Lägger till 80-talets Väst- och Östtyskland så väl som Danmarks och Polens väpnade styrkor. Innehåller kartan Weferlingen (både i sommar- och vinterutförande).
+
+Används ett par gång per år av Anrop.
+
+[Steam](https://store.steampowered.com/app/1042220/)
+
+### Contact
+
+Släpptes 25 juli 2019
+
+Lägger till kartan Livonia, förband tillhörande den fiktiva nationen Livonia och ryska Spetsnaztrupper.
+
+Lägger till en science-fictionorienterad enspelarkampanj där utomjordingar invaderar.
+
+Används ett par gånger per år av Anrop.
+
+[Steam](https://store.steampowered.com/app/1021790/)
+
+### Art of War
+
+Släpptes 23 februari 2021
+
+Innehåller förutom ett konstgalleri, med Armarelaterad konst, ett klädesplagg och väskor.
+
+
+Bohemia donerar alla intäkter för detta DLC till Röda korset.
+
+Detta DLC kommer att bli gratis vid "slutet av 2021".
+
+[Steam](https://store.steampowered.com/app/1325500)
+
+### S.O.G. Prairie Fire
+
+Släpptes 6 maj 2021
+
+Lägger till en fjortonspelarkampanj som utspelar sig under Vietnamkriget.
+
+Innehåller kartan Cam Lao Nam och lägger till möjligheten att spela som den amerikanska armén, amerikanska specialförband, den sydvietnamesiska armén, den nordvietnamesiska armén och som Viet Cong.
+
+[Steam](https://store.steampowered.com/app/1227700/)
