@@ -101,7 +101,6 @@ Denna har använts i bl.a. Rolling Thunder evenemang.
 
 [Steam](https://store.steampowered.com/app/798390/)
 
-
 ### Global Mobilization - Cold War Germany
 
 Släpptes 29 april 2019
