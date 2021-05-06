@@ -48,6 +48,9 @@ Del | Slå på farthållare
 Ctrl + Mushjul framåt | Öka farthållaren med 1 km/h
 Ctrl + Mushjul bakåt | Minska farthållaren med 1 km/h
 
-## Medical
+
+### Medicin
+
+Knapp | Förklaring
 --- | ---
 H | Medicinmeny
