@@ -20,8 +20,8 @@ För flera modifikationer behövs en extra modul för att ljuden ska bytas ut.
 
 För CUP behöver du motsvarande JSRS-modul för att ändra alla vapenljud
 
-* [JSRS CUP WEAPONS](https://steamcommunity.com/sharedfiles/filedetails/?id=1624803912)
-* [JSRS CUP VEHICLES](https://steamcommunity.com/sharedfiles/filedetails/?id=1624804924)
+* [JSRS CUP Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=1624803912)
+* [JSRS CUP Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=1624804924)
 
 ### RHS
 
