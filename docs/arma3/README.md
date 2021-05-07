@@ -127,7 +127,7 @@ Används ett par gånger per år av Anrop.
 
 Släpptes 23 februari 2021
 
-Innehåller förutom ett konstgalleri, med Armarelaterad konst, ett klädesplagg och väskor.
+Innehåller förutom ett konstgalleri, med Armarelaterad konst, ett antal klädesplagg och väskor.
 
 Bohemia donerar alla intäkter för detta DLC till Röda korset.
 
