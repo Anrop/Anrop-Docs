@@ -15,7 +15,6 @@ JSRS förbättrar markant ljudeffekterna i spelet jämfört med standardljuden.
 
 För flera modifikationer behövs en extra modul för att ljuden ska bytas ut.
 
-
 ### CUP
 
 För CUP behöver du motsvarande JSRS-modul för att ändra alla vapenljud
@@ -31,7 +30,6 @@ För RHS behöver du motsvarande JSRS-modul för att ändra alla vapenljud
 * [JSRS RHS GREF](http://steamcommunity.com/sharedfiles/filedetails/?id=1180534892)
 * [JSRS RHS SAF](http://steamcommunity.com/sharedfiles/filedetails/?id=1486541773)
 * [JSRS RHS USAF](https://steamcommunity.com/sharedfiles/filedetails/?id=1180533757)
-
 
 ### SFP
 
