@@ -63,6 +63,13 @@ module.exports = {
                 '/arma3/editing/sqf/',
                 '/arma3/editing/zeus/'
               ]
+            },
+            {
+              title: 'Support',
+              collapsable: false,
+              children: [
+                '/arma3/support/crashes/'
+              ]
             }
           ],
           '/dcs/': [
