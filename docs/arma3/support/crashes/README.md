@@ -37,4 +37,4 @@ När du är klar vill du att kontrollpanelen ser ut som nedan.
 Efter detta kommer inte potentiometern ha någon effekt på balansen mellan spel- och VOIP-ljud.
 Den kommer istället endast kontrollera ljudnivån, likt potentiometern på vänster lurs baksida.
 
-Det har hänt att Windows slumpmässigt bestämmer sig för att återställa inställningarna ovan.
+Windows kan slumpmässigt återställa dessa inställningar.
