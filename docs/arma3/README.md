@@ -141,6 +141,6 @@ Släpptes 6 maj 2021
 
 Lägger till en enspelarkampanj och flera samspelsuppdrag som utspelar sig under Vietnamkriget.
 
-Innehåller kartan Cam Lao Nam och lägger till möjligheten att spela som den amerikanska armén, amerikanska specialförband, den sydvietnamesiska armén, den nordvietnamesiska armén och som Viet Cong.
+Innehåller kartorna Cam Lao Nam och Khe Sanh. DLC:t lägger till möjligheten att spela som den amerikanska armén, amerikanska specialförband, den sydvietnamesiska armén, den nordvietnamesiska armén och som Viet Cong.
 
 [Steam](https://store.steampowered.com/app/1227700/)
