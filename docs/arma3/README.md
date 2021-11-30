@@ -131,7 +131,7 @@ Innehåller förutom ett konstgalleri, med Armarelaterad konst, ett antal kläde
 
 Bohemia donerar alla intäkter för detta DLC till Röda korset.
 
-Detta DLC kommer att bli gratis vid "slutet av 2021".
+Gratis sedan 30 november 2021.
 
 [Steam](https://store.steampowered.com/app/1325500)
 
